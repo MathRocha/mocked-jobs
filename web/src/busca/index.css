@@ -1,0 +1,12 @@
+.busca-form {
+  display: flex;
+  flex-direction: column;
+  margin: 2em 0;
+  gap: 1em;
+}
+
+.job-div {
+  background-color: var(--accent-bg);
+  color: var(--accent);
+  border-color: var(--accent-border);
+}
